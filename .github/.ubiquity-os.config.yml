@@ -1,0 +1,3 @@
+plugins:
+  - uses:  
+    - plugin: ubiquity-whilefoo/daemon-merging@fix/kv
